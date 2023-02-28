@@ -1,2 +1,111 @@
 # Pro.Taho-OP-NFT-V2
 An open source native web3 community, NFT smart contract updates, and Token structure rebalancing. A JMA_DAO Token Improvements Proposal.
+Applications and Submissions to earn a creator contract account spot on the Proposed Professional Tahomies Optimism Non Fungible Improved Token Smart Contract. 
+A web3 Token Interaction, native to open source web3 communities. A partnership initiative between Tally Ho web3 community and jma_dao web3 community.
+
+Look out for Application Requirements and Submission Details.
+
+USA JMA VC [V1] Improvesd to Pro.Tahomie Optimism NFT [V2].
+Proposed Token Details: 
+
+Token Networks: Optimism, Ethereum, Polygon, Aurora, Near....
+
+Token Native Network: Optimism
+
+Token Contract Address: jma_dao OP {0x8604CB8ed74a9AcC91581d9785467ae04256A06B}
+
+Token ID: Pro.Taho OP
+
+Token Symbol: PTOP
+
+Token Name: Professional Tahomies Optimism
+
+Token Decimal: 18
+
+Token Website: https://qx.app/profile 
+==========
+
+# Pro.Taho OP Token Total Volume Supply.
+Token Quantity: {(('20 Limited Pro. Categories')
+                   '20 no, of each Pro. Categories')
+                    = 400 Mint, Pro.Taho OP NFTs}
+                    Proposed Pro.Taho OP NFTs Total Supply Volume = 400 Pro.Taho OP NFTs.
+                
+==========
+
+# Committee Reviewing Pro.Taho OP NFT, V2 Improvements Proposal. 
+An Open-Source native wen3 community council, contributors, and members, who's role is to discuss, review, contribute,
+and vote for the approval of the JIP. (JMA_DAO Token Improvements Proposal)
+
+1. JMA_DAO Community Council Members. A web3 community role, native to jma_dao.
+2. Shiba House Verified Tally Ho Members. A web3 community role, native to Tally Ho. 
+3. JMA_DAO Verified Contributors. A web3 community role, native to jma_dao. 
+
+==========
+
+# Verified Contributor Task and Bounty Links associated with Pro.Taho OP NFTs.
+Note: This task is reserved for the contributors within the native community associated with Pro.Taho OP NFT.
+
+No.     Task/Bounty Title,            Discription,              Links,          Asigned Contributor.   Contributor's community and Role.
+1.     2x Weighted Gov OP         An associetd and verified    Check here               N/A                         N/A
+       Token Identifier bot.      general web3 weighted Gov   for link update. 
+                                  Token Identifier and
+                                  contrat implimenter bot.
+
+No.     Task/Bounty Title,            Discription,              Links,          Asigned Contributor.   Contributor's community and Role.
+2.     Active Contributor        An associetd and verified    Check here               N/A                         N/A
+       Role Tag. -ACRole.        general Active Contributor   for link update. 
+                                 Role Tag Identifier bot.
+
+No.     Task/Bounty Title,            Discription,              Links,          Asigned Contributor.   Contributor's community and Role.
+3.     $PTOP Loan Collateral      An associetd and verified    Check here               N/A                         N/A
+       Token Asset Class.         Token Loan Collateral Asset  for link update. 
+                                  Strategy Implimenter bot.
+
+No.     Task/Bounty Title,            Discription,              Links,          Asigned Contributor.   Contributor's community and Role.
+4.     $PTOP Smart Staking        An associetd and verified    Check here               N/A                         N/A
+       dependencies and           Smart staking contract       for link update. 
+       capabilities.              Implimentation bot.
+
+==========
+
+# Pro.Taho OP NFTs Overview. 
+
+Pro.Taho OP NFT is the second version [V2] update of the United State Of America JMoss-Architecture-DAO Vintage Coin Non Fungible Token, [V1] (https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/60618394003910468094785107560781180050889159480762419821610265969805899071489/) 
+proposed to be deployed on the optimism network, as a universal web3 native Token utility. 
+
+A limited Premium Collection of Profesional Tahomies, who are the beneficiaries of the USA JMA VC Private sale auction, reserved for the Tally Ho native web3 community multisig safe, managed natively by the community members and multisig signers. 
+20 Beneficiaries form the USA JMA VC V1, will participate and receive free Lams Product voucher airdrops, from the proposed percentage of the V1, Token sale. (https://www.amazon.co.uk/Dog-Food-Iams-Dogs/s?keywords=Dog+Food&rh=n%3A471400031%2Cp_89%3AIams&c=ts&ts_id=471400031)
+
+Each limited Pro.Taho OP NFT, has a unique Profession that is considered 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
