@@ -77,7 +77,63 @@ proposed to be deployed on the optimism network, as a universal web3 native Toke
 A limited Premium Collection of Profesional Tahomies, who are the beneficiaries of the USA JMA VC Private sale auction, reserved for the Tally Ho native web3 community multisig safe, managed natively by the community members and multisig signers. 
 20 Beneficiaries form the USA JMA VC V1, will participate and receive free Lams Product voucher airdrops, from the proposed percentage of the V1, Token sale. (https://www.amazon.co.uk/Dog-Food-Iams-Dogs/s?keywords=Dog+Food&rh=n%3A471400031%2Cp_89%3AIams&c=ts&ts_id=471400031)
 
-Each limited Pro.Taho OP NFT, has a unique Profession that is considered 
+Each limited Pro.Taho OP NFT, has a unique Profession that is considered invaluable, within web3 communities. Professional Tahomies are strong and convicted open-source and decentralized native web3 community evangelists.
+Pro.Tahomies creates a gender bias-free professional service experience, that is native to Tally Ho, Jma_dao, and several other open source web3 communities.
+
+==========
+
+# Proposed Pro.Taho OP Limited Professional Category List. 
+
+Professional Tahomies List.
+
+1. Architects
+2. Smart Contract Engineers
+3. Graphics Designers 
+4. Smart Contract Auditors
+5. Accountants
+6. Forex Traders
+7. Blockchain Validators
+8. Full Stack Developers
+9. Front End Developers
+10. Back End Developers
+11. Community Managers
+12. Analytics Engineers
+13. Web3 Content Creators
+14. Policy Makers
+15. Cryptographers 
+16. Cryptocurrency Traders
+17. Methodologists
+18. Lawyers
+19. Climate Change Activists 
+20. Founder/CEOs of Native Web3 Open Source Communities.
+
+==========
+
+# Proposed Pro.Taho OP Utility and Token On-Chain web3 Value.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
