@@ -111,7 +111,13 @@ Professional Tahomies List.
 
 # Proposed Pro.Taho OP Utility and Token On-Chain web3 Value.
 
+1. Native Web3 Community Active Contributor Role Tag. 
+This tag represents a highly interactve professional withing all associated web communities.
+This general Role Tag is not transferable.
+A Pro.Taho OP holding this Tag, jumps contributor queue, and is aoutomatically made a leader over fellow countributors.
+The Active Contributor Role is native within partnered community and only Pro.Tahomies can apply for the ACRole Tag.
 
+2. 
 
 
 
