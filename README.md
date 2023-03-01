@@ -119,14 +119,18 @@ The Active Contributor Role is native within partnered community and only Pro.Ta
 
 2. Native web3 Retrospevtive OP automated airdrops from V1 NFT sales to all Pro.Taho OP Owners.
 Automated 10% Royalty Airdrops from V1 Re-Sales.
+
 V1 Royalty % native airdrops Distribution:
-             2.5% Royalty Airdrops to verified Tally Ho community Pledge Signers.
-             2.5% Royalty Airdrops to Verified jma_dao community members.
-             2.5% Royalty Airdrops to Pro.Tahomies Creator Addresses.
-             2.5% Royalty Airdrop to jma_dao Contract Initiator Address.
+
+2.5% Royalty Airdrops to verified Tally Ho community Pledge Signers.
+2.5% Royalty Airdrops to Verified jma_dao community members.
+2.5% Royalty Airdrops to Pro.Tahomies Creator Addresses.
+2.5% Royalty Airdrop to jma_dao Contract Initiator Address.
 
 3. Pro.Taho OP, A Lending Colateral Token Asset Class on Optimism and Associated Networks.
-4. 
+
+4. Pro.Tahomies OP has a web3 native, general Active Contributor Role Access Tag.
+
 
 
 
