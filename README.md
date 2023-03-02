@@ -157,9 +157,9 @@ The Gov related Token Value of $PTOP is discribed below.
      $PTOP = 1000 wraped OP Token at any given timestamp, post deployment on mainnet. 
 Proposed as an improvement/addition to the Optimism Gov Tokens, and also proposed on associated web3 community's Gov Tokens.
 
-==========
+========== 
 APPLICATIONS AND SUBMISSIONS REQUIREMENTS. 
-==========.
+==========
 
 # Pro.Taho OP NFT Creator Contract Application Requirements.
 
@@ -228,38 +228,29 @@ NOTE. Pro.Taho OP NFT is a 100% Pro Equality Token.
          *  Pro.Tahomies are required to take a photo of the delivered Lams Products, arranged next to Your Dog. Having both Lams Products and Your in a single
             shot is a must requirement, and photo sent to jma_dao proof channel. https://discord.gg/SNaEJPdfBB 
             
-NOTE: Failure to meet the Proof Requirement, Will ressult to Immidiate Termination of Application, and spot given to the next qualified submission. 
+NOTE: Failure to meet the Proof Requirement, Will result to Immidiate Termination of Application, and spot given to the next qualified submission. 
 
+==========
 
+# Apllication Submission Guidelines. 
 
-        
+    1. ===== Fork This Public Pro.Taho OP NFT V2 Repository.
+    
+    2. ===== Watch and set this Master's repository notification to receive all updates and improvements.
+    
+    3. ===== Copy your new Fork Pro.Taho OP V2 repo, Rename copied repo to your Proposed Pro.Taho OP name."Dog Name" must tally with details you already provided.
+    
+    4. ===== Make the copied and renamed Repo, Private. 
+    
+    5. ===== Send an Admin invitation and access of your private repo to jma_dao dev team and council committee members via jmossarchitevtureng@gmail.com
+    
+    6. ===== Send an invite notification message to jma_dao proof channel taging @admin followed by Private Repo link. https://discord.gg/SNaEJPdfBB 
+    
+==========
+    
+# Application Submission Guidelines 2.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    1. ===== 
 
 
 
