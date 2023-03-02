@@ -176,13 +176,13 @@ APPLICATIONS AND SUBMISSIONS REQUIREMENTS.
        
        * Optimism Network Mainnet RPC =  https://community.optimism.io/docs/useful-tools/networks/# 
        
-       * Ethereum Network Mainnet RPC = https://docs.etherscan.io/ 
+       * Ethereum Network Mainnet RPC =  https://docs.etherscan.io/ 
        
-       * Aurora Network Mainnet RPC   = https://mainnet.aurora.dev/
+       * Aurora Network Mainnet RPC   =  https://mainnet.aurora.dev/
        
-       * Polygon Network Mainnet RPC  = https://wiki.polygon.technology/docs/operate/endpoints/#polygon-pos-mainnet 
+       * Polygon Network Mainnet RPC  =  https://wiki.polygon.technology/docs/operate/endpoints/#polygon-pos-mainnet 
        
-       * NEAR Network Mainnet RPC     = https://docs.near.org/api/rpc/providers 
+       * NEAR Network Mainnet RPC     =  https://docs.near.org/api/rpc/providers 
        
 3. ===== Pro.Tahomies Associated Native Web3 Community Membership Role Requierments.
         
