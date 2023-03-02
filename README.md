@@ -12,7 +12,7 @@ Token Networks: Optimism, Ethereum, Polygon, Aurora, Near....
 
 Token Native Network: Optimism
 
-Token Contract Address: jma_dao OP {0x8604CB8ed74a9AcC91581d9785467ae04256A06B}
+Token Contract Address: jma_dao OP {0x86........6A06B}
 
 Token ID: Pro.Taho OP
 
