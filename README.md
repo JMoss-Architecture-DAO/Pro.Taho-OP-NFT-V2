@@ -218,9 +218,18 @@ APPLICATIONS AND SUBMISSIONS REQUIREMENTS.
 
 NOTE. Pro.Taho OP NFT is a 100% Pro Equality Token.
 
-5. ===== Pro.Tahomies OP Lams Product Coupons Airdrops, to 20 Successful Applications.  Requirement.
+5. ===== Pro.Tahomies Lams Product Coupons Airdrops, to 20 Successful Applications. Proof Requirement.
+
+     After a successful application submission, 20 selected applications by the committee council, will receive the proposed airdrops, and are required to give 
+     proof of recieving and purchasing, as required. 
+     
+         *  Pro.Tahomies are required to to send a screenshot of purchase receipt and send screenshot proof via jma_dao #Proof Channel https://discord.gg/SNaEJPdfBB
          
-                
+         *  Pro.Tahomies are required to take a photo of the delivered Lams Products, arranged next to Your Dog. Having both Lams Products and Your in a single
+            shot is a must requirement, and photo sent to jma_dao proof channel. https://discord.gg/SNaEJPdfBB 
+            
+NOTE: Failure to meet the Proof Requirement, Will ressult to Immidiate Termination of Application, and spot given to the next qualified submission. 
+
 
 
         
