@@ -130,6 +130,29 @@ V1 Royalty % native airdrops Distribution:
 3. Pro.Taho OP, A Lending Colateral Token Asset Class on Optimism and Associated Networks.
 
 4. Pro.Tahomies OP has a web3 native, general Active Contributor Role Access Tag.
+ACRole is a proposed community general contributor role that gives automatic access to native web3 community roles and channesls. 
+Holders of ACRole are considerd first, for a leadership position within associated web3 communities.
+This role tag ia not transferable and is not automatically given to Pro.Taho OP owners. 
+The #ACRole must be applied for.
+
+5. Pro.Taho OP Smart Staking abilities and Properties on Optimism Network. 
+$PTOP Proposed Smart Staking allows owners and holders to sellect a preconfigured automatic staking strategies on listed DeFi and CeFi on the optimism network
+and associated native web3 commmunity Networks.
+
+6. Pro.Tahomies OP Governance Token Value.
+The Gov related Token Value of $PTOP is discribed below.
+
+=====V2 Pro.Taho OP NFT = 2x (OP) Governance Token.
+     $PTOP = 1000 wraped OP Token at any given timestamp, post deployment on mainnet. 
+Proposed as an improvement/addition to the Optimism Gov Tokens, and also proposed on associated web3 community's Gov Tokens.
+
+==========
+APPLICATIONS AND SUBMISSIONS REQUIREMENTS. 
+==========
+
+# Pro.Taho OP NFT Creator Contract Application Requirements.
+
+
 
 
 
