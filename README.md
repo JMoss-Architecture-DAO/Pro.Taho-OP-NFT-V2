@@ -44,26 +44,25 @@ and vote for the approval of the JIP. (JMA_DAO Token Improvements Proposal)
 ==========
 
 # Verified Contributor Task and Bounty Links associated with Pro.Taho OP NFTs.
-Note: This task is reserved for the contributors within the native community associated with Pro.Taho OP NFT.
 
-No.     Task/Bounty Title,            Discription,              Links,          Asigned Contributor.   Contributor's community and Role.
-1.     2x Weighted Gov OP         An associetd and verified    Check here               N/A                         N/A
+NOTE. This task is reserved for the contributors within the native community associated with Pro.Taho OP NFT.
+
+        Task/Bounty Title,            Discription,              Links,          Asigned Contributor.   Contributor's community and Role.
+        
+    *  2x Weighted Gov OP         An associetd and verified    Check here               N/A                         N/A
        Token Identifier bot.      general web3 weighted Gov   for link update. 
                                   Token Identifier and
                                   contrat implimenter bot.
 
-No.     Task/Bounty Title,            Discription,              Links,          Asigned Contributor.   Contributor's community and Role.
-2.     Active Contributor        An associetd and verified    Check here               N/A                         N/A
-       Role Tag. -ACRole.        general Active Contributor   for link update. 
+    *   Active Contributor        An associetd and verified    Check here               N/A                         N/A
+        Role Tag. -ACRole.        general Active Contributor   for link update. 
                                  Role Tag Identifier bot.
 
-No.     Task/Bounty Title,            Discription,              Links,          Asigned Contributor.   Contributor's community and Role.
-3.     $PTOP Loan Collateral      An associetd and verified    Check here               N/A                         N/A
+    *  $PTOP Loan Collateral      An associetd and verified    Check here               N/A                         N/A
        Token Asset Class.         Token Loan Collateral Asset  for link update. 
                                   Strategy Implimenter bot.
 
-No.     Task/Bounty Title,            Discription,              Links,          Asigned Contributor.   Contributor's community and Role.
-4.     $PTOP Smart Staking        An associetd and verified    Check here               N/A                         N/A
+    *  $PTOP Smart Staking        An associetd and verified    Check here               N/A                         N/A
        dependencies and           Smart staking contract       for link update. 
        capabilities.              Implimentation bot.
 
@@ -121,11 +120,15 @@ Professional Tahomies List.
    Automated 10% Royalty Airdrops from V1 Re-Sales.
 
    V1 Royalty % native airdrops Distribution:
+   
+        *   2.5% Royalty Airdrops to verified Tally Ho community Pledge Signers.
 
-  2.5% Royalty Airdrops to verified Tally Ho community Pledge Signers.
-  2.5% Royalty Airdrops to Verified jma_dao community members.
-  2.5% Royalty Airdrops to Pro.Tahomies Creator Addresses.
-  2.5% Royalty Airdrop to jma_dao Contract Initiator Address.
+        *   2.5% Royalty Airdrops to Verified jma_dao community members.
+     
+        *   2.5% Royalty Airdrops to Pro.Tahomies Creator Addresses.
+     
+        *   2.5% Royalty Airdrop to jma_dao Contract Initiator Address.
+
 
 3. Pro.Taho OP, A Lending Colateral Token Asset Class on Optimism and Associated Networks.
 
@@ -188,15 +191,28 @@ APPLICATIONS AND SUBMISSIONS REQUIREMENTS.
         
             Community.                  Role.                 Required Action.                Connection Links.
             
-        *  jma_dao we3 community      Membership       Connect Discord, and web3 Wallet     https://discord.gg/Zqah6Qj97S 
+       *  jma_dao we3 community      Membership       Connect Discord, and web3 Wallet     https://discord.gg/Zqah6Qj97S 
         
-        *  Tally Ho web3 community    Membership       Connect Wallet, Sign Pledge.         https://discord.gg/fsNZZPhygb 
+       *  Tally Ho web3 community    Membership       Connect Wallet, Sign Pledge.         https://discord.gg/fsNZZPhygb 
         
-        *  Optimism Community         Membership       Join Community, Hold OP Token        https://discord.optimism.io/ 
+       *  Optimism Community         Membership       Join Community, Hold OP Token        https://discord.optimism.io/ 
         
-4. ===== Pro.Taho Curriculum Veta Requierments. 
+4. ===== Pro.Taho Curriculum Vitea Requierments. 
 
-        * 
+       * Upload an on-chain web3 curriculum vitae.
+        
+       * Details on Curriculum vitae must correspond with Pro.Taho OP dedails, in requirement 1, above.
+        
+       * Avoid by all means possible, revealing Pro.Tahomie's Gender. 
+        
+       * Curriculum Vitae must only contain discriptions and links to all web3 interactions with smart contracts, contribution details of all on-chain related web3 
+          contributions, and make sure to completely leave out all previous off-chain work experience.     
+
+NOTE. Pro.Taho OP NFT is a 100% Pro Equality Token.
+
+5. ===== Pro.Tahomies OP Lams Product Coupons Airdrops, to 20 Successful Applications. P Requirement.
+         
+                
 
 
         
