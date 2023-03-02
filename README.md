@@ -186,6 +186,20 @@ APPLICATIONS AND SUBMISSIONS REQUIREMENTS.
        
 3. ===== Pro.Tahomies Associated Native Web3 Community Membership Role Requierments.
         
+            Community.                  Role.                 Required Action.                Connection Links.
+            
+        *  jma_dao we3 community      Membership       Connect Discord, and web3 Wallet     https://discord.gg/Zqah6Qj97S 
+        
+        *  Tally Ho web3 community    Membership       Connect Wallet, Sign Pledge.         https://discord.gg/fsNZZPhygb 
+        
+        *  Optimism Community         Membership       Join Community, Hold OP Token        https://discord.optimism.io/ 
+        
+4. ===== Pro.Taho Curriculum Veta Requierments. 
+
+        * 
+
+
+        
 
 
 
