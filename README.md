@@ -112,20 +112,20 @@ Professional Tahomies List.
 # Proposed Pro.Taho OP Utility and Token On-Chain web3 Value.
 
 1. Native Web3 Community Active Contributor Role Tag. 
-This tag represents a highly interactve professional withing all associated web communities.
-This general Role Tag is not transferable.
-A Pro.Taho OP holding this Tag, jumps contributor queue, and is aoutomatically made a leader over fellow countributors.
-The Active Contributor Role is native within partnered community and only Pro.Tahomies can apply for the ACRole Tag.
+  This tag represents a highly interactve professional withing all associated web communities.
+  This general Role Tag is not transferable.
+  A Pro.Taho OP holding this Tag, jumps contributor queue, and is aoutomatically made a leader over fellow countributors.
+  The Active Contributor Role is native within partnered community and only Pro.Tahomies can apply for the ACRole Tag.
 
 2. Native web3 Retrospevtive OP automated airdrops from V1 NFT sales to all Pro.Taho OP Owners.
-Automated 10% Royalty Airdrops from V1 Re-Sales.
+   Automated 10% Royalty Airdrops from V1 Re-Sales.
 
-V1 Royalty % native airdrops Distribution:
+   V1 Royalty % native airdrops Distribution:
 
-2.5% Royalty Airdrops to verified Tally Ho community Pledge Signers.
-2.5% Royalty Airdrops to Verified jma_dao community members.
-2.5% Royalty Airdrops to Pro.Tahomies Creator Addresses.
-2.5% Royalty Airdrop to jma_dao Contract Initiator Address.
+  2.5% Royalty Airdrops to verified Tally Ho community Pledge Signers.
+  2.5% Royalty Airdrops to Verified jma_dao community members.
+  2.5% Royalty Airdrops to Pro.Tahomies Creator Addresses.
+  2.5% Royalty Airdrop to jma_dao Contract Initiator Address.
 
 3. Pro.Taho OP, A Lending Colateral Token Asset Class on Optimism and Associated Networks.
 
@@ -148,11 +148,35 @@ Proposed as an improvement/addition to the Optimism Gov Tokens, and also propose
 
 ==========
 APPLICATIONS AND SUBMISSIONS REQUIREMENTS. 
-==========
+==========.
 
 # Pro.Taho OP NFT Creator Contract Application Requirements.
 
+1.===== Pro.Taho OP NFT Metadata Requirements. 
 
+       * Dog Breed Name =
+       
+       * Dog Name       =
+       
+       * Profession     =
+       
+       * 4k HD Media Quality Dog Photo
+       
+       * 1200 : 1200 mm photo diameter
+       
+       * Pro.Tahomies must be dressed up in appropriate Professional Costume that best represents you as a Professional Tahomie.
+       
+       
+       * Photo fotage must be a close shot and one of the three listed background colour theme below.
+       - Orange { same colour theme used on Tally Ho official logo}
+       - Green  { same colour theme used on jma_dao, and Aurora Official logo
+       - Red    { same colour theme used on Optimism official logo}
+       
+2.===== Pro.Taho Associated Smart Contract Address Requiremens.
+       
+       * Optimism Network Mainnet RPC =  https://community.optimism.io/docs/useful-tools/networks/# 
+       
+       * Ethereum Network Mainnet RPC = 
 
 
 
