@@ -178,7 +178,14 @@ APPLICATIONS AND SUBMISSIONS REQUIREMENTS.
        
        * Ethereum Network Mainnet RPC = https://docs.etherscan.io/ 
        
-       * Aurora Network Mainnet RPC   = 
+       * Aurora Network Mainnet RPC   = https://mainnet.aurora.dev/
+       
+       * Polygon Network Mainnet RPC  = https://wiki.polygon.technology/docs/operate/endpoints/#polygon-pos-mainnet 
+       
+       * NEAR Network Mainnet RPC     = https://docs.near.org/api/rpc/providers 
+       
+3. ===== Pro.Tahomies Associated Native Web3 Community Membership Role Requierments.
+        
 
 
 
