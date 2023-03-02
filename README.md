@@ -176,7 +176,9 @@ APPLICATIONS AND SUBMISSIONS REQUIREMENTS.
        
        * Optimism Network Mainnet RPC =  https://community.optimism.io/docs/useful-tools/networks/# 
        
-       * Ethereum Network Mainnet RPC = 
+       * Ethereum Network Mainnet RPC = https://docs.etherscan.io/ 
+       
+       * Aurora Network Mainnet RPC   = 
 
 
 
