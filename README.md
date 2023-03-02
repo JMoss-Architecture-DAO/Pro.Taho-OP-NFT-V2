@@ -25,11 +25,19 @@ Token Decimal: 18
 Token Website: https://qx.app/profile 
 ==========
 
+Proposed Pro.Taho OP NFT Standard Fax: https://eips.ethereum.org/EIPS/eip-1155#erc-1155-token-receiver 
+==========
+
 # Pro.Taho OP Token Total Volume Supply.
-Token Quantity: {(('20 Limited Pro. Categories')
-                   '20 no, of each Pro. Categories')
-                    = 400 Mint, Pro.Taho OP NFTs}
-                    Proposed Pro.Taho OP NFTs Total Supply Volume = 400 Pro.Taho OP NFTs.
+Token Quantity: 
+
+        {(('20 Limited Pro. Categories')
+        
+           '20 no, of each Pro. Categories')
+           
+             = 400 Mint, Pro.Taho OP NFTs}
+             
+        Proposed Pro.Taho OP NFTs Total Supply Volume = 400 Pro.Taho OP NFTs.
                 
 ==========
 
@@ -210,7 +218,7 @@ APPLICATIONS AND SUBMISSIONS REQUIREMENTS.
 
 NOTE. Pro.Taho OP NFT is a 100% Pro Equality Token.
 
-5. ===== Pro.Tahomies OP Lams Product Coupons Airdrops, to 20 Successful Applications. P Requirement.
+5. ===== Pro.Tahomies OP Lams Product Coupons Airdrops, to 20 Successful Applications.  Requirement.
          
                 
 
