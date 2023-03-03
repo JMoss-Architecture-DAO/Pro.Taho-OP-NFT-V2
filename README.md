@@ -216,7 +216,7 @@ APPLICATIONS AND SUBMISSIONS REQUIREMENTS.
        * Avoid by all means possible, revealing Pro.Tahomie's Gender. 
         
        * Curriculum Vitae must only contain discriptions and links to all web3 interactions with smart contracts, contribution details of all on-chain related web3 
-          contributions, and make sure to completely leave out all previous off-chain work experience.     
+         contributions, and make sure to completely leave out all previous off-chain work experience.     
 
 NOTE. Pro.Taho OP NFT is a 100% Pro Equality Token.
 
@@ -234,20 +234,33 @@ NOTE: Failure to meet the Proof Requirement, Will result to Immidiate Terminatio
 
  6. ===== Added Advantage Requirements For Applicants. *Optinal 
          
-     Retweet, Share, Post, or Publish an Article about the Following:
+     Retweet, Share, Post, Interact, or Publish an Article about the Following:
      
          *  JMA Vintage Coin Collection V1 on Open Sea https://opensea.io/JMA_DAO
 
-         *  
+         *  Pro.Taho OP NFT V2 on Quix  https://qx.app/profile
 
+         *  Pro.Taho OP V2 Open Source Repo. This repo, when it resets to Public 
 
+         *  Follow Tally Ho on Twitter https://twitter.com/taho_xyz/status/1625188217128468492?s=20 
 
+         * Interact with Pro.Taho OP Contract Address using the options liated bellow. 
 
+           Successfully Transfer: 
+           
+            *  2 OP       =  0x8604CB8ed74a9AcC91581d9785467ae04256A06B
+            
+            *  2 Aurora   =  0x8604CB8ed74a9AcC91581d9785467ae04256A06B
 
+            *  2 MATIC    =  0x8604CB8ed74a9AcC91581d9785467ae04256A06B
 
+            *  2 NEAR    =   0x8604CB8ed74a9AcC91581d9785467ae04256A06B
+           
+            *  $2 ETH    =   0x8604CB8ed74a9AcC91581d9785467ae04256A06B 
+            
 ==========
 
-# Apllication Submission Guidelines 1. 
+# Apllication Submission Guidelines 1. Submission Channel Set up.
 
     1. ===== Fork This Public Pro.Taho OP NFT V2 Repository.
     
@@ -263,7 +276,9 @@ NOTE: Failure to meet the Proof Requirement, Will result to Immidiate Terminatio
     
 ==========
     
-# Application Submission Guidelines 2.
+# Application Submission Guidelines 2. Submission Requirements Proof Links.
+
+Applicants are required to Provide the neccessary links to requested requirements. On Copied Fork Repo.
 
     1. ===== 
 
