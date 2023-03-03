@@ -280,7 +280,7 @@ NOTE: Failure to meet the Proof Requirement, Will result to Immidiate Terminatio
 
 Applicants are required to Provide the neccessary links to requested requirements. On Copied Fork Repo.
 
-    1. =====                                      PROVIDE REQUIRED LINK PROOF.
+    1. =====                                                                   PROVIDE REQUIRED LINK PROOF.
             
             * Dog Breed Name =
    
@@ -300,7 +300,8 @@ Applicants are required to Provide the neccessary links to requested requirement
    - Green  { same colour theme used on jma_dao, and Aurora Official logo
    - Red    { same colour theme used on Optimism official logo}  
    
-            
+   
+                                                                               PROVIDE REQUIRED LINK PROOF.
    2.=====          Discription.                         Contract Address. 
    
               * Optimism Network Mainnet RPC =   
@@ -312,6 +313,16 @@ Applicants are required to Provide the neccessary links to requested requirement
               * Polygon Network Mainnet RPC  =  
    
               * NEAR Network Mainnet RPC     =  
+              
+   3. ======                                                                   PROVIDE REQUIRED LINK PROOF.
+
+                 Community.                  Role.                 Required Action.                Connection Links.
+     
+             *  jma_dao we3 community      Membership       Connect Discord, and web3 Wallet     
+ 
+             *  Tally Ho web3 community    Membership       Connect Wallet, Sign Pledge.        
+ 
+             *  Optimism Community         Membership       Join Community, Hold OP Token        
               
            
 
