@@ -301,7 +301,19 @@ Applicants are required to Provide the neccessary links to requested requirement
    - Red    { same colour theme used on Optimism official logo}  
    
             
-
+   2.=====          Discription.                         Contract Address. 
+   
+              * Optimism Network Mainnet RPC =   
+   
+              * Ethereum Network Mainnet RPC =   
+   
+              * Aurora Network Mainnet RPC   =  
+   
+              * Polygon Network Mainnet RPC  =  
+   
+              * NEAR Network Mainnet RPC     =  
+              
+           
 
 
 
