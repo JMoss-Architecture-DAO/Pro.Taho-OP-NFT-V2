@@ -322,11 +322,25 @@ Applicants are required to Provide the neccessary links to requested requirement
  
              *  Tally Ho web3 community    Membership       Connect Wallet, Sign Pledge.        
  
-             *  Optimism Community         Membership       Join Community, Hold OP Token        
+             *  Optimism Community         Membership       Join Community, Hold OP Token    
+
+   4. =====     
+
+            * Upload an on-chain web3 curriculum vitae.
+
+UPLOAD AND DROP MEDID HERE.
+ 
+            * Details on Curriculum vitae must correspond with Pro.Taho OP dedails, in requirement 1, above.
+ 
+            * Avoid by all means possible, revealing Pro.Tahomie's Gender. 
+ 
+            * Curriculum Vitae must only contain discriptions and links to all web3 interactions with smart contracts, contribution details of all on-chain related
+              web3 contributions, and make sure to completely leave out all previous off-chain work experience.     
               
            
+  5. =====  
 
-
+            
 
 
 
