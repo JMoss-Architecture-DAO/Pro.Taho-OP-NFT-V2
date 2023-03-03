@@ -236,6 +236,8 @@ NOTE: Failure to meet the Proof Requirement, Will result to Immidiate Terminatio
          
      Retweet, Share, Post, or Publish an Article about the Following:
      
+         *  JMA Vintage Coin Collection V1 on Open Sea https://opensea.io/JMA_DAO
+
          *  
 
 
