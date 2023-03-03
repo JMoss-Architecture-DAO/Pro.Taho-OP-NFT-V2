@@ -280,7 +280,27 @@ NOTE: Failure to meet the Proof Requirement, Will result to Immidiate Terminatio
 
 Applicants are required to Provide the neccessary links to requested requirements. On Copied Fork Repo.
 
-    1. ===== 
+    1. =====                                      PROVIDE REQUIRED LINK PROOF.
+            
+            * Dog Breed Name =
+   
+            * Dog Name       =
+   
+            * Profession     =
+   
+            * 4k HD Media Quality Dog Photo
+   
+            * 1200 : 1200 mm photo diameter
+   
+            * Pro.Tahomies must be dressed up in appropriate Professional Costume that best represents you as a Professional Tahomie.
+   
+   
+   * Photo fotage must be a close shot and one of the three listed background colour theme below.
+   - Orange { same colour theme used on Tally Ho official logo}
+   - Green  { same colour theme used on jma_dao, and Aurora Official logo
+   - Red    { same colour theme used on Optimism official logo}  
+   
+            
 
 
 
