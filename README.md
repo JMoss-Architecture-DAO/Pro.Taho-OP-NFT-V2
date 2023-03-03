@@ -232,9 +232,20 @@ NOTE. Pro.Taho OP NFT is a 100% Pro Equality Token.
             
 NOTE: Failure to meet the Proof Requirement, Will result to Immidiate Termination of Application, and spot given to the next qualified submission. 
 
+ 6. ===== Added Advantage Requirements For Applicants. *Optinal 
+         
+     Retweet, Share, Post, or Publish an Article about the Following:
+     
+         *  
+
+
+
+
+
+
 ==========
 
-# Apllication Submission Guidelines. 
+# Apllication Submission Guidelines 1. 
 
     1. ===== Fork This Public Pro.Taho OP NFT V2 Repository.
     
