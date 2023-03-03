@@ -257,7 +257,8 @@ NOTE: Failure to meet the Proof Requirement, Will result to Immidiate Terminatio
             *  2 NEAR    =   0x8604CB8ed74a9AcC91581d9785467ae04256A06B
            
             *  $2 ETH    =   0x8604CB8ed74a9AcC91581d9785467ae04256A06B 
-            
+            *  
+       AGAIN THIS REQUIREMENT IS OPTIONAL     
 ==========
 
 # Apllication Submission Guidelines 1. Submission Channel Set up.
