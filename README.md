@@ -148,13 +148,15 @@ The #ACRole must be applied for.
 
 5. Pro.Taho OP Smart Staking abilities and Properties on Optimism Network. 
 $PTOP Proposed Smart Staking allows owners and holders to sellect a preconfigured automatic staking strategies on listed DeFi and CeFi on the optimism network
-and associated native web3 commmunity Networks.
+and associated native web3 community Networks.
 
 6. Pro.Tahomies OP Governance Token Value.
 The Gov related Token Value of $PTOP is discribed below.
 
-=====V2 Pro.Taho OP NFT = 2x (OP) Governance Token.
+     V2 Pro.Taho OP NFT = 2x (OP) Governance Token.
+     
      $PTOP = 1000 wraped OP Token at any given timestamp, post deployment on mainnet. 
+     
 Proposed as an improvement/addition to the Optimism Gov Tokens, and also proposed on associated web3 community's Gov Tokens.
 
 ========== 
