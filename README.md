@@ -180,7 +180,7 @@ APPLICATIONS AND SUBMISSIONS REQUIREMENTS.
        * Pro.Tahomies must be dressed up in appropriate Professional Costume that best represents you as a Professional Tahomie.
        
        
-       * Photo fotage must be a close shot and one of the three listed background colour theme below.
+       * Photo footage must be a close shot and one of the three listed background colour theme below.
        - Orange { same colour theme used on Tally Ho official logo}
        - Green  { same colour theme used on jma_dao, and Aurora Official logo
        - Red    { same colour theme used on Optimism official logo}
@@ -402,21 +402,39 @@ UPLOAD AND DROP MEDIA FILE HERE.
    5. ===== Added Advantage Requirement 6. Optional.
    
                    10% [PERCENT GRADE ALLOCATION]
+                   
+==========
+
+# Application Submission Deadlines and Approval Notification.
+
+  1. ===== USA JMA VC V1 Private Sale Auction Smart Contract Interaction, with a Tally Ho MultiSig Account on Open Sea. Listing Expires on 28th, May 2023.
+                   
+               https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/60618394003910468094785107560781180050889159480762419821610265969805899071489/
+
+  2. ===== Submissiom Deadline for Pro.Taho OP NFT Creator.
+
+              Date:    28th, of April 2023.  
+              Time:    00:00 UTC
+                   
+  3. ===== Selected and Approved Submisions would Announced Via This Repo.
+
+              Date:    30th, of April 2023
+              Time:    00:00 UTC
+
+  4. ===== Submissions will be Maxed at 40. 20 would be selected and approved by the committee, the remaining submissions that is complete and meets the requirements            listed will have automatic access to Whitelist, at Floor Price Mint Event. Plus all associsted Proposed Token Utility and on-chain Value.    
+
+==========
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                  
 
 
 
