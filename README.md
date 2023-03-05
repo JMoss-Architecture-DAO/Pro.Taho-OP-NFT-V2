@@ -5,7 +5,7 @@ A web3 Token Interaction, native to open source web3 communities. A partnership 
 
 Look out for Application Requirements and Submission Details.
 
-USA JMA VC [V1] Improvesd to Pro.Tahomie Optimism NFT [V2].
+USA JMA VC [V1] Improved to Pro.Tahomie Optimism NFT [V2].
 Proposed Token Details: 
 
 Token Networks: Optimism, Ethereum, Polygon, Aurora, Near....
@@ -20,7 +20,7 @@ Token Symbol: PTOP
 
 Token Name: Professional Tahomies Optimism
 
-Token Decimal: 18
+Token Decimal:  N/A
 
 Token Website: https://qx.app/profile 
 ==========
@@ -81,7 +81,7 @@ NOTE. This task is reserved for the contributors within the native community ass
 Pro.Taho OP NFT is the second version [V2] update of the United State Of America JMoss-Architecture-DAO Vintage Coin Non Fungible Token, [V1] (https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/60618394003910468094785107560781180050889159480762419821610265969805899071489/) 
 proposed to be deployed on the optimism network, as a universal web3 native Token utility. 
 
-A limited Premium Collection of Profesional Tahomies, who are the beneficiaries of the USA JMA VC Private sale auction, reserved for the Tally Ho native web3 community multisig safe, managed natively by the community members and multisig signers. 
+A limited Premium Collection of ProfesSional Tahomies, who are the beneficiaries of the USA JMA VC Private sale auction, reserved for the Tally Ho native web3 community multisig safe, managed natively by the community members and multisig signers. 
 20 Beneficiaries form the USA JMA VC V1, will participate and receive free Lams Product voucher airdrops, from the proposed percentage of the V1, Token sale. (https://www.amazon.co.uk/Dog-Food-Iams-Dogs/s?keywords=Dog+Food&rh=n%3A471400031%2Cp_89%3AIams&c=ts&ts_id=471400031)
 
 Each limited Pro.Taho OP NFT, has a unique Profession that is considered invaluable, within web3 communities. Professional Tahomies are strong and convicted open-source and decentralized native web3 community evangelists.
@@ -147,7 +147,7 @@ This role tag ia not transferable and is not automatically given to Pro.Taho OP 
 The #ACRole must be applied for.
 
 5. Pro.Taho OP Smart Staking abilities and Properties on Optimism Network. 
-$PTOP Proposed Smart Staking allows owners and holders to sellect a preconfigured automatic staking strategies on listed DeFi and CeFi on the optimism network
+$PTOP Proposed Smart Staking allows owners and holders to select a preconfigured automatic staking strategies on listed DeFi and CeFi on the optimism network
 and associated native web3 community Networks.
 
 6. Pro.Tahomies OP Governance Token Value.
@@ -261,7 +261,7 @@ NOTE: Failure to meet the Proof Requirement, Will result to Immidiate Terminatio
        AGAIN THIS REQUIREMENT IS OPTIONAL     
 ==========
 
-# Apllication Submission Guidelines 1. Submission Channel Set up.
+# Apllication Submission Guidelines 1. SUBMISSION CHANNEL SETUP.
 
     1. ===== Fork This Public Pro.Taho OP NFT V2 Repository.
     
@@ -277,11 +277,11 @@ NOTE: Failure to meet the Proof Requirement, Will result to Immidiate Terminatio
     
 ==========
     
-# Application Submission Guidelines 2. Submission Requirements Proof Links.
+# Application Submission Guidelines 2. SUBMISSION REQUIREMENTS PROOF LINKS.
 
 Applicants are required to Provide the neccessary links to requested requirements. On Copied Fork Repo.
 
-    1. =====                                                                   PROVIDE REQUIRED LINK PROOF.
+    1. =====                                                                   PROVIDE REQUIRED LINK PROOF.                            
             
             * Dog Breed Name =
    
@@ -302,8 +302,9 @@ Applicants are required to Provide the neccessary links to requested requirement
    - Red    { same colour theme used on Optimism official logo}  
    
    
-                                                                               PROVIDE REQUIRED LINK PROOF.
-   2.=====          Discription.                         Contract Address. 
+   2.=====                                                                     PROVIDE REQUIRED LINK PROOF.  
+   
+                       Discription.                         Contract Address. 
    
               * Optimism Network Mainnet RPC =   
    
@@ -325,11 +326,11 @@ Applicants are required to Provide the neccessary links to requested requirement
  
              *  Optimism Community         Membership       Join Community, Hold OP Token    
 
-   4. =====     
+   4. =====                                                                    PROVIDE REQUIRED LINK PROOF.
 
             * Upload an on-chain web3 curriculum vitae.
 
-UPLOAD AND DROP MEDID HERE.
+UPLOAD AND DROP MEDIA FILE HERE.
  
             * Details on Curriculum vitae must correspond with Pro.Taho OP dedails, in requirement 1, above.
  
@@ -339,14 +340,68 @@ UPLOAD AND DROP MEDID HERE.
               web3 contributions, and make sure to completely leave out all previous off-chain work experience.     
               
            
-  5. =====  
+  5. =====                                                                    PROVIDE REQUIRED LINK PROOF.
+  
+                  Discription.                  Link to Proof on jma_dao #proof channel.
 
+            * Lams Purchase Screenshot     
+
+            * Photo of Dog and Lams Product     
             
 
+  6. =====  
+  
+     Tweet, Post, Share, Publish Article and Interact with Smart Contract.    Optional.
+                                                                              
+                                                                              PROVIDE REQUIRED LINK PROOF.
+                                                                              
+                      Discription                                                        Links.
 
+            *  JMA Vintage Coin Collection V1 on Open Sea.
 
+            *  Pro.Taho OP NFT V2 on Quix.
 
+            *  Pro.Taho OP V2 Open Source Repo. 
+ 
+            *  Follow Tally Ho on Twitter.
 
+            *  Interact with Pro.Taho OP Contract Address using the options liated bellow. 
+
+                    Successfully Transfer.                  Smart Contract Transaction Details.     
+   
+                       *  2 OP                  = 
+    
+                       *  2 Aurora              = 
+
+                       *  2 MATIC               = 
+
+                       *  2 NEAR                =  
+   
+                       *  $2 ETH                =   
+      
+ ==========
+ 
+ # Selection Criteria Percentage Allocation. 
+
+   1. =====  Well Articulated and Completed Application and Submission Process.
+           
+                    30% [PERCENT GRADE ALLOCATION]
+                    
+   2. ===== Proposed Professional Tahomies choice of Costume Interpretation, and Photo Media Quality.
+
+                    40% [PERCENT GRADE ALLOCATION]
+                    
+   3. ===== First 25 Application to be Completed and Submitted. 
+
+                   10% [PERCENT GRADE ALLOCATION]
+                    
+   4. ===== Observed Community Interactions within Partnered Web3 Community Platforms and Smart Contract Interactions. 
+
+                   10% [PERCENT GRADE ALLOCATION]
+
+   5. ===== Added Advantage Requirement 6. Optional.
+   
+                   10% [PERCENT GRADE ALLOCATION]
 
 
 
